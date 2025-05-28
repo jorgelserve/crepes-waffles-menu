@@ -1,0 +1,2749 @@
+{
+  "menuGlobal": {
+    "nombreRestaurante": "Crepes & Waffles (Inferido)",
+    "moneda": "COP (Inferido)",
+    "imagenesProcesadas": [
+      "WhatsApp Image 2025-05-27 at 9.29.36 PM.jpeg",
+      "WhatsApp Image 2025-05-27 at 9.29.36 PM(1).jpeg",
+      "WhatsApp Image 2025-05-27 at 9.29.36 PM(2).jpeg",
+      "WhatsApp Image 2025-05-27 at 9.29.36 PM(3).jpeg",
+      "WhatsApp Image 2025-05-27 at 9.29.37 PM.jpeg"
+    ],
+    "categorias": [
+      {
+        "name": "Jugos",
+        "translatedName": "Juices",
+        "items": [
+          {
+            "name": "Mora",
+            "translatedName": "Blackberry",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$8.900",
+            "trademarks": []
+          },
+          {
+            "name": "Fresa",
+            "translatedName": "Strawberry",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$8.900",
+            "trademarks": []
+          },
+          {
+            "name": "Mango",
+            "translatedName": "Mango",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$9.200",
+            "trademarks": []
+          },
+          {
+            "name": "Lulo",
+            "translatedName": "Lulo",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$7.200",
+            "trademarks": []
+          },
+          {
+            "name": "Mandarina",
+            "translatedName": "Tangerine",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$9.900",
+            "trademarks": []
+          },
+          {
+            "name": "Naranja",
+            "translatedName": "Orange",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$8.900",
+            "trademarks": []
+          },
+          {
+            "name": "Feijoa",
+            "translatedName": "Feijoa",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$8.900",
+            "trademarks": []
+          },
+          {
+            "name": "Guanábana",
+            "translatedName": "Soursop",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$8.900",
+            "trademarks": []
+          },
+          {
+            "name": "Durazno",
+            "translatedName": "Peach",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$8.900",
+            "trademarks": []
+          },
+          {
+            "name": "Piña",
+            "translatedName": "Pineapple",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$8.900",
+            "trademarks": []
+          },
+          {
+            "name": "Gulupa",
+            "translatedName": "Passion Fruit (Gulupa)",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$9.500",
+            "trademarks": []
+          },
+          {
+            "name": "Curuba",
+            "translatedName": "Banana Passion Fruit (Curuba)",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$8.900",
+            "trademarks": []
+          },
+          {
+            "name": "Exótico",
+            "translatedName": "Exotic",
+            "description": "Corozo, tamarindo y lychee",
+            "translatedDescription": "Corozo, tamarind and lychee",
+            "price": "$8.900",
+            "trademarks": []
+          }
+        ]
+      },
+      {
+        "name": "Limonadas",
+        "translatedName": "Lemonades",
+        "items": [
+          {
+            "name": "Natural",
+            "translatedName": "Natural",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$5.900",
+            "trademarks": []
+          },
+          {
+            "name": "Lychee Mandarina",
+            "translatedName": "Lychee Tangerine",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$8.900",
+            "trademarks": []
+          },
+          {
+            "name": "Hierbabuena",
+            "translatedName": "Spearmint",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$6.900",
+            "trademarks": []
+          },
+          {
+            "name": "Frutos Rojos",
+            "translatedName": "Red Berries",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$8.900",
+            "trademarks": []
+          },
+          {
+            "name": "Coco",
+            "translatedName": "Coconut",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$10.900",
+            "trademarks": []
+          }
+        ]
+      },
+      {
+        "name": "Batidos",
+        "translatedName": "Smoothies",
+        "items": [
+          {
+            "name": "Piña, Jengibre y Hierbabuena",
+            "translatedName": "Pineapple, Ginger and Spearmint",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$8.900",
+            "trademarks": []
+          },
+          {
+            "name": "Alegría",
+            "translatedName": "Joy",
+            "description": "Zumos de gulupa, mango, maracuyá y piña",
+            "translatedDescription": "Passion fruit (gulupa), mango, passion fruit (maracuyá) and pineapple juices",
+            "price": "$12.900",
+            "trademarks": []
+          },
+          {
+            "name": "Vitalidad",
+            "translatedName": "Vitality",
+            "description": "Zumo de frutas del campo: banano, pera, fresa y hierbabuena.",
+            "translatedDescription": "Country fruit juice: banana, pear, strawberry and spearmint.",
+            "price": "$9.800",
+            "trademarks": []
+          },
+          {
+            "name": "Elixir",
+            "translatedName": "Elixir",
+            "description": "Batido de acaí y banano.",
+            "translatedDescription": "Acai and banana smoothie.",
+            "price": "$12.500",
+            "trademarks": []
+          },
+          {
+            "name": "Fortaleza",
+            "translatedName": "Strength",
+            "description": "Batido de agraz silvestre, mango y maracuyá",
+            "translatedDescription": "Wild agraz, mango and passion fruit (maracuyá) smoothie",
+            "price": "$10.400",
+            "trademarks": []
+          },
+          {
+            "name": "Sosegado",
+            "translatedName": "Calm",
+            "description": "Batido de frutos del bosque de la granja.",
+            "translatedDescription": "Farm forest fruits smoothie.",
+            "price": "$10.400",
+            "trademarks": []
+          }
+        ]
+      },
+      {
+        "name": "Malteadas",
+        "translatedName": "Milkshakes",
+        "items": [
+          {
+            "name": "Arequipe y Limón Mandarino",
+            "translatedName": "Dulce de Leche and Tangerine Lemon",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$7.200",
+            "trademarks": []
+          },
+          {
+            "name": "Curuba y Miel",
+            "translatedName": "Banana Passion Fruit (Curuba) and Honey",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$7.900",
+            "trademarks": []
+          },
+          {
+            "name": "Frambuesa y Hierbabuena",
+            "translatedName": "Raspberry and Spearmint",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$8.200",
+            "trademarks": []
+          },
+          {
+            "name": "Albahaca y Limonaria",
+            "translatedName": "Basil and Lemongrass",
+            "description": "Con helado de vainilla y zumo de limón",
+            "translatedDescription": "With vanilla ice cream and lemon juice",
+            "price": "$7.900",
+            "trademarks": []
+          }
+        ]
+      },
+      {
+        "name": "Otras Bebidas",
+        "translatedName": "Other Drinks",
+        "items": [
+          {
+            "name": "Agua Siembra",
+            "translatedName": "Siembra Water",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$6.500",
+            "trademarks": []
+          },
+          {
+            "name": "Agua Cristal® con Gas",
+            "translatedName": "Cristal® Sparkling Water",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$5.800",
+            "trademarks": ["Cristal®"]
+          },
+          {
+            "name": "Agua Manantial®",
+            "translatedName": "Manantial® Water",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$6.400",
+            "trademarks": ["Manantial®"]
+          },
+          {
+            "name": "Agua Manantial® con Gas",
+            "translatedName": "Manantial® Sparkling Water",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$6.400",
+            "trademarks": ["Manantial®"]
+          },
+          {
+            "name": "Coca-Cola®",
+            "translatedName": "Coca-Cola®",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$5.400",
+            "trademarks": ["Coca-Cola®"]
+          },
+          {
+            "name": "Coca-Cola® Zero",
+            "translatedName": "Coca-Cola® Zero",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$5.400",
+            "trademarks": ["Coca-Cola®"]
+          },
+          {
+            "name": "Schweppes® Ginger Ale",
+            "translatedName": "Schweppes Ginger Ale®",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$5.600",
+            "trademarks": ["Schweppes®", "Ginger®"]
+          },
+          {
+            "name": "Té Lipton®",
+            "translatedName": "Lipton® Tea",
+            "description": "Original o Durazno",
+            "translatedDescription": "Original or Peach",
+            "price": "$5.600",
+            "trademarks": ["Lipton®"]
+          },
+          {
+            "name": "Kola Román®",
+            "translatedName": "Kola Román®",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$5.600",
+            "trademarks": ["Kola Román®"]
+          },
+          {
+            "name": "Té Helado",
+            "translatedName": "Iced Tea",
+            "description": "Mr. Tea Limón o Durazno",
+            "translatedDescription": "Mr. Tea Lemon or Peach",
+            "price": "$7.200",
+            "trademarks": ["Mr. Tea®"]
+          }
+        ]
+      },
+      {
+        "name": "Cervezas",
+        "translatedName": "Beers",
+        "items": [
+          {
+            "name": "Coronita",
+            "translatedName": "Coronita",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$8.500",
+            "trademarks": []
+          },
+          {
+            "name": "Club Colombia",
+            "translatedName": "Club Colombia",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$9.500",
+            "trademarks": []
+          },
+          {
+            "name": "Stella Artois",
+            "translatedName": "Stella Artois",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$12.900",
+            "trademarks": []
+          },
+          {
+            "name": "Heineken",
+            "translatedName": "Heineken",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$10.900",
+            "trademarks": []
+          },
+          {
+            "name": "Heineken 0.0",
+            "translatedName": "Heineken 0.0",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$10.900",
+            "trademarks": []
+          },
+          {
+            "name": "Trece Pasos IPA",
+            "translatedName": "Trece Pasos IPA",
+            "description": "Indian Pale Ale. País de origen: Colombia",
+            "translatedDescription": "Indian Pale Ale. Country of origin: Colombia",
+            "price": "$15.400",
+            "trademarks": []
+          }
+        ]
+      },
+      {
+        "name": "Entradas",
+        "translatedName": "Appetizers",
+        "items": [
+          {
+            "name": "Crepe de Queso y Champiñones",
+            "translatedName": "Cheese and Mushroom Crepe",
+            "description": "Dos crepes de queso y salsa de champiñones con dip de queso azul y pan árabe.",
+            "translatedDescription": "Two cheese crepes and mushroom sauce with blue cheese dip and pita bread.",
+            "price": "$12.900",
+            "trademarks": []
+          },
+          {
+            "name": "Ensalada de la Barra",
+            "translatedName": "Bar Salad",
+            "description": "Variedad de lechugas frescas, aguacate, tomate cherry, palmitos del Putumayo, champiñones, queso parmesano y vinagreta de la casa.",
+            "translatedDescription": "Variety of fresh lettuce, avocado, cherry tomato, Putumayo hearts of palm, mushrooms, Parmesan cheese, and house vinaigrette.",
+            "price": "$19.900",
+            "trademarks": []
+          },
+          {
+            "name": "Tomatina",
+            "translatedName": "Tomatina",
+            "description": "Tomates horneados con aceite de oliva y hierbas aromáticas, un toque de vinagre balsámico, mozzarella de búfala, lechuga y pan artesanal.",
+            "translatedDescription": "Baked tomatoes with olive oil and aromatic herbs, a touch of balsamic vinegar, buffalo mozzarella, lettuce, and artisanal bread.",
+            "price": "$18.200",
+            "trademarks": []
+          },
+          {
+            "name": "Ensalada Cesar & Waffles",
+            "translatedName": "Caesar Salad & Waffles",
+            "description": "Lechuga romana, croutones, queso parmesano, aderezo Cesar y nuestros Waffles.",
+            "translatedDescription": "Romaine lettuce, croutons, Parmesan cheese, Caesar dressing, and our Waffles.",
+            "price": "$18.200",
+            "trademarks": []
+          },
+          {
+            "name": "Ensalada Griega",
+            "translatedName": "Greek Salad",
+            "description": "Variedad de lechugas frescas, tomate, pepino, cebolla, aceitunas Kalamata, queso feta y vinagreta de orégano.",
+            "translatedDescription": "Variety of fresh lettuce, tomato, cucumber, onion, Kalamata olives, feta cheese, and oregano vinaigrette.",
+            "price": "$18.200",
+            "trademarks": [],
+            "notes": "Repeated in 'Ensaladas' category"
+          },
+          {
+            "name": "Ensalada Caprese",
+            "translatedName": "Caprese Salad",
+            "description": "Mozzarella de búfala, tomates frescos, albahaca, aceite de oliva extra virgen y reducción de vinagre balsámico.",
+            "translatedDescription": "Buffalo mozzarella, fresh tomatoes, basil, extra virgin olive oil, and balsamic vinegar reduction.",
+            "price": "$18.200",
+            "trademarks": []
+          },
+          {
+            "name": "Champiñones al Ajillo",
+            "translatedName": "Garlic Mushrooms",
+            "description": "Champiñones salteados en aceite de oliva con ajo, perejil y un toque de vino blanco. Acompañados de pan árabe.",
+            "translatedDescription": "Mushrooms sautéed in olive oil with garlic, parsley, and a touch of white wine. Served with pita bread.",
+            "price": "$19.900",
+            "trademarks": []
+          },
+          {
+            "name": "Antipasto Especial",
+            "translatedName": "Special Antipasto",
+            "description": "Selección de carnes frías italianas, quesos marinados, aceitunas, alcachofas y pimentones asados. Servido con pan artesanal.",
+            "translatedDescription": "Selection of Italian cold cuts, marinated cheeses, olives, artichokes, and roasted peppers. Served with artisanal bread.",
+            "price": "$19.900",
+            "trademarks": []
+          }
+        ]
+      },
+      {
+        "name": "Ensalada Cala",
+        "translatedName": "Cala Salad",
+        "items": [
+          {
+            "name": "Ensalada Cala",
+            "translatedName": "Cala Salad",
+            "description": "Mix de lechugas orgánicas, aguacate, mango, fresas, queso de cabra fresco, nueces y aderezo de maracuyá.",
+            "translatedDescription": "Mix of organic lettuce, avocado, mango, strawberries, fresh goat cheese, walnuts, and passion fruit (maracuyá) dressing.",
+            "price": "$19.200",
+            "trademarks": []
+          }
+        ]
+      },
+      {
+        "name": "Sopas",
+        "translatedName": "Soups",
+        "items": [
+          {
+            "name": "Soy Otoño",
+            "translatedName": "I am Autumn",
+            "description": "Crema de ahuyama con jengibre y semillas de girasol.",
+            "translatedDescription": "Pumpkin cream soup with ginger and sunflower seeds.",
+            "price": "$9.800",
+            "trademarks": []
+          },
+          {
+            "name": "Vida en Verdes",
+            "translatedName": "Life in Greens",
+            "description": "Crema de espinacas y kale con un toque de nuez moscada.",
+            "translatedDescription": "Spinach and kale cream soup with a touch of nutmeg.",
+            "price": "$10.900",
+            "trademarks": []
+          },
+          {
+            "name": "Primavera",
+            "translatedName": "Spring",
+            "description": "Sopa de tomate y albahaca con crutones de queso parmesano.",
+            "translatedDescription": "Tomato and basil soup with Parmesan cheese croutons.",
+            "price": "$11.500",
+            "trademarks": []
+          },
+          {
+            "name": "Sopa del Sol",
+            "translatedName": "Sun Soup",
+            "description": "Sopa de tortilla mexicana con pollo desmechado, aguacate, queso fresco, crema agria y un toque de chile pasilla.",
+            "translatedDescription": "Mexican tortilla soup with shredded chicken, avocado, fresh cheese, sour cream, and a touch of pasilla chili.",
+            "price": "$13.900",
+            "trademarks": []
+          }
+        ]
+      },
+      {
+        "name": "Lentejas",
+        "translatedName": "Lentils",
+        "items": [
+          {
+            "name": "Lentejas Campesinas",
+            "translatedName": "Country-style Lentils",
+            "description": "Guiso de lentejas con chorizo español, papa, zanahoria y un toque de comino. Servidas con arroz blanco.",
+            "translatedDescription": "Lentil stew with Spanish chorizo, potato, carrot, and a touch of cumin. Served with white rice.",
+            "price": "$13.900",
+            "trademarks": []
+          }
+        ]
+      },
+      {
+        "name": "Espinaca Gratinada",
+        "translatedName": "Gratin Spinach",
+        "items": [
+          {
+            "name": "Espinaca Gratinada",
+            "translatedName": "Gratin Spinach",
+            "description": "Espinacas frescas salteadas con cebolla, crema de leche y queso parmesano, gratinadas al horno.",
+            "translatedDescription": "Fresh spinach sautéed with onion, heavy cream, and Parmesan cheese, oven-gratinéed.",
+            "price": "$13.900",
+            "trademarks": []
+          }
+        ]
+      },
+      {
+        "name": "Covarachia",
+        "translatedName": "Covarachia",
+        "items": [
+          {
+            "name": "Covarachia",
+            "translatedName": "Covarachia",
+            "description": "Cazuela de fríjoles rojos con carne desmechada, chorizo, chicharrón, plátano maduro, aguacate, maíz tierno y hogao. Acompañada de arroz y arepa.",
+            "translatedDescription": "Red bean casserole with shredded beef, chorizo, pork crackling, ripe plantain, avocado, sweet corn, and hogao. Served with rice and arepa.",
+            "price": "$19.500",
+            "trademarks": []
+          }
+        ]
+      },
+      {
+        "name": "Crepes de Sal (Sin Gluten)",
+        "translatedName": "Savory Crepes (Gluten-Free)",
+        "items": [
+          {
+            "name": "Mexicana con Pollo",
+            "translatedName": "Mexican with Chicken",
+            "description": "Pollo desmechado con salsa de chipotle, crema agria, queso, aguacate y pico de gallo.",
+            "translatedDescription": "Shredded chicken with chipotle sauce, sour cream, cheese, avocado, and pico de gallo.",
+            "price": "$19.900",
+            "trademarks": []
+          }
+        ]
+      },
+      {
+        "name": "Crepes de Pollo",
+        "translatedName": "Chicken Crepes",
+        "items": [
+          {
+            "name": "Pollo, Alcachofa, Queso y Salsa de Queso",
+            "translatedName": "Chicken, Artichoke, Cheese and Cheese Sauce",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$30.900",
+            "trademarks": []
+          },
+          {
+            "name": "Pollo y Queso",
+            "translatedName": "Chicken and Cheese",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$27.900",
+            "trademarks": []
+          },
+          {
+            "name": "Pollo, Queso y Champiñones",
+            "translatedName": "Chicken, Cheese and Mushrooms",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$28.500",
+            "trademarks": []
+          },
+          {
+            "name": "Pollo, Brócoli y Queso",
+            "translatedName": "Chicken, Broccoli and Cheese",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$27.900",
+            "trademarks": []
+          },
+          {
+            "name": "Pollo y Espinaca con Queso",
+            "translatedName": "Chicken and Spinach with Cheese",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$28.500",
+            "trademarks": []
+          },
+          {
+            "name": "Pollo, Espárragos y Queso",
+            "translatedName": "Chicken, Asparagus and Cheese",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$27.900",
+            "trademarks": []
+          },
+          {
+            "name": "Pollo Chipotle",
+            "translatedName": "Chipotle Chicken",
+            "description": "Pollo desmechado, cebolla caramelizada, aguacate, pico de gallo, queso, maiz y crema de chipotle.",
+            "translatedDescription": "Shredded chicken, caramelized onion, avocado, pico de gallo, cheese, corn, and chipotle cream.",
+            "price": "$28.900",
+            "trademarks": []
+          },
+          {
+            "name": "Pollo en Salsa Verde Mexicana",
+            "translatedName": "Chicken in Mexican Green Sauce",
+            "description": "Pollo en salsa de tomatillo verde, cebolla, cilantro, aguacate, crema agria, pimentón asado y queso fresco.",
+            "translatedDescription": "Chicken in green tomatillo sauce, onion, cilantro, avocado, sour cream, roasted pepper, and fresh cheese.",
+            "price": "$29.500",
+            "trademarks": []
+          },
+          {
+            "name": "Pollo Rosarito",
+            "translatedName": "Rosarito Chicken",
+            "description": "Pollo en salsa mexicana con chipotle, lascas de aguacate y frijol rojo.",
+            "translatedDescription": "Chicken in Mexican sauce with chipotle, avocado slices, and red beans.",
+            "price": "$28.500",
+            "trademarks": []
+          },
+          {
+            "name": "Pollo al Curry",
+            "translatedName": "Curry Chicken",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$28.500",
+            "trademarks": []
+          },
+          {
+            "name": "Pollo al Curry al estilo Hindú",
+            "translatedName": "Hindu-style Curry Chicken",
+            "description": "Con leche de coco, almendras y chutney de mango.",
+            "translatedDescription": "With coconut milk, almonds, and mango chutney.",
+            "price": "$28.500",
+            "trademarks": []
+          },
+          {
+            "name": "Pollo Trufa Mexicana",
+            "translatedName": "Mexican Truffle Chicken",
+            "description": "Pollo con salsa de trufa, huitlacoche, aguacate y salsa de tomatillo.",
+            "translatedDescription": "Chicken with truffle sauce, huitlacoche, avocado, and tomatillo sauce.",
+            "price": "$29.800",
+            "trademarks": []
+          },
+          {
+            "name": "Pollo Peruano",
+            "translatedName": "Peruvian Chicken",
+            "description": "Típica preparación de ají de gallina limeño, salsa de aceitunas y huevo cocido. Con papas al vapor.",
+            "translatedDescription": "Typical Lima-style aji de gallina preparation, olive sauce, and boiled egg. With steamed potatoes.",
+            "price": "$27.900",
+            "trademarks": []
+          },
+          {
+            "name": "Pollo Mexicano",
+            "translatedName": "Mexican Chicken",
+            "description": "Pollo, pimentón, cebolla y chipotle, queso rallado, lechuga, crema agria, frijol y pico de gallo.",
+            "translatedDescription": "Chicken, bell pepper, onion and chipotle, grated cheese, lettuce, sour cream, beans and pico de gallo.",
+            "price": "$29.500",
+            "trademarks": []
+          },
+          {
+            "name": "Thai",
+            "translatedName": "Thai Chicken",
+            "description": "Pechuga de pollo en salsa de maní y curry rojo con champiñones, pimentón, cebolla y cilantro. Acompañado de arroz a base de curry y maracuyá.",
+            "translatedDescription": "Chicken breast in peanut and red curry sauce with mushrooms, bell pepper, onion, and cilantro. Served with curry and passion fruit rice.",
+            "price": "$29.500",
+            "trademarks": []
+          },
+          {
+            "name": "Pollo al Ají Panka",
+            "translatedName": "Aji Panka Chicken",
+            "description": "Ají panka originario de los Andes del Perú. Puré de frijol al cilantro, aguacate, rúgula, champiñones de paris y cebolla roja.",
+            "translatedDescription": "Aji panka originating from the Peruvian Andes. Cilantro bean puree, avocado, arugula, paris mushrooms, and red onion.",
+            "price": "$28.500",
+            "trademarks": []
+          }
+        ]
+      },
+      {
+        "name": "Crepes de Carne",
+        "translatedName": "Meat Crepes",
+        "items": [
+          {
+            "name": "Boloñesa y Queso",
+            "translatedName": "Bolognese and Cheese",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$25.900",
+            "trademarks": []
+          },
+          {
+            "name": "Boloñesa, Queso y Champiñones",
+            "translatedName": "Bolognese, Cheese and Mushrooms",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$27.500",
+            "trademarks": []
+          },
+          {
+            "name": "Stroganoff",
+            "translatedName": "Stroganoff",
+            "description": "Lomo de res en salsa de champiñones, tocineta, pepinillos y crema agria.",
+            "translatedDescription": "Beef tenderloin in mushroom sauce, bacon, pickles, and sour cream.",
+            "price": "$28.900",
+            "trademarks": [],
+            "notes": "Also available in Panne Cook"
+          },
+          {
+            "name": "Roastbeef",
+            "translatedName": "Roast Beef",
+            "description": "Finas lonjas de roastbeef con mostaza dijon, rúgula, champiñones y tomate cherry. Aderezado con aceite de oliva y reducción balsámica.",
+            "translatedDescription": "Thin slices of roast beef with Dijon mustard, arugula, mushrooms, and cherry tomato. Drizzled with olive oil and balsamic reduction.",
+            "price": "$31.800",
+            "trademarks": []
+          },
+          {
+            "name": "Pavo Desmechado",
+            "translatedName": "Shredded Turkey",
+            "description": "Pavo desmechado en salsa bechamel con champiñones y espárragos.",
+            "translatedDescription": "Shredded turkey in bechamel sauce with mushrooms and asparagus.",
+            "price": "$28.900",
+            "trademarks": []
+          },
+          {
+            "name": "Ternera y Champiñones",
+            "translatedName": "Veal and Mushrooms",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$30.900",
+            "trademarks": []
+          },
+          {
+            "name": "Lomito Pimienta",
+            "translatedName": "Pepper Steak",
+            "description": "Lomo fino en salsa de pimienta negra con un toque de brandy.",
+            "translatedDescription": "Tenderloin in black pepper sauce with a touch of brandy.",
+            "price": "$33.900",
+            "trademarks": [],
+            "notes": "Also available in Panne Cook"
+          },
+          {
+            "name": "Lomito Stroganoff",
+            "translatedName": "Beef Tenderloin Stroganoff",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$33.900",
+            "trademarks": []
+          },
+          {
+            "name": "Lomito Pizzaïola",
+            "translatedName": "Pizzaïola Beef Tenderloin",
+            "description": "Lomo fino en salsa napolitana con orégano, alcaparras y aceitunas.",
+            "translatedDescription": "Tenderloin in Neapolitan sauce with oregano, capers, and olives.",
+            "price": "$32.900",
+            "trademarks": []
+          },
+          {
+            "name": "Lomito Árabe",
+            "translatedName": "Arabic Beef Tenderloin",
+            "description": "Lomo fino marinado en especias árabes, con tahine, hummus y pan árabe.",
+            "translatedDescription": "Tenderloin marinated in Arabic spices, with tahini, hummus, and pita bread.",
+            "price": "$38.900",
+            "trademarks": []
+          }
+        ]
+      },
+      {
+        "name": "Crepes Clásicos",
+        "translatedName": "Classic Crepes",
+        "items": [
+          {
+            "name": "Jamón y Queso",
+            "translatedName": "Ham and Cheese",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$17.900",
+            "trademarks": []
+          },
+          {
+            "name": "Jamón, Queso y Champiñones",
+            "translatedName": "Ham, Cheese and Mushrooms",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$19.900",
+            "trademarks": []
+          },
+          {
+            "name": "Jamón, Queso y Espárragos",
+            "translatedName": "Ham, Cheese and Asparagus",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$21.900",
+            "trademarks": []
+          },
+          {
+            "name": "Atún, Queso, Tomate Cherry y Salsa Dijonnaise",
+            "translatedName": "Tuna, Cheese, Cherry Tomato and Dijonnaise Sauce",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$20.900",
+            "trademarks": []
+          },
+          {
+            "name": "Sensación",
+            "translatedName": "Sensation",
+            "description": "Queso mozzarella, tomate seco, rúgula y reducción balsámica.",
+            "translatedDescription": "Mozzarella cheese, sun-dried tomato, arugula, and balsamic reduction.",
+            "price": "$21.900",
+            "trademarks": []
+          },
+          {
+            "name": "Sensación Colombia",
+            "translatedName": "Colombia Sensation",
+            "description": "Carne desmechada, hogao, maíz tierno, crema agria y costra tradicional.",
+            "translatedDescription": "Shredded beef, hogao, sweet corn, sour cream, and traditional crust.",
+            "price": "$24.900",
+            "trademarks": []
+          },
+          {
+            "name": "Bretonne",
+            "translatedName": "Bretonne",
+            "description": "Manzana caramelizada, queso brie y nueces.",
+            "translatedDescription": "Caramelized apple, brie cheese, and walnuts.",
+            "price": "$20.900",
+            "trademarks": []
+          },
+          {
+            "name": "Bretonne Serrano",
+            "translatedName": "Serrano Bretonne",
+            "description": "Jamón serrano, manzana caramelizada, queso brie y nueces.",
+            "translatedDescription": "Serrano ham, caramelized apple, brie cheese, and walnuts.",
+            "price": "$26.800",
+            "trademarks": []
+          },
+          {
+            "name": "French Connection",
+            "translatedName": "French Connection",
+            "description": "Queso emmental, jamón ahumado, cebollas caramelizadas, tomate seco y mostaza antigua.",
+            "translatedDescription": "Emmental cheese, smoked ham, caramelized onions, sun-dried tomato, and old-style mustard.",
+            "price": "$18.900",
+            "trademarks": []
+          }
+        ]
+      },
+      {
+        "name": "Crepes de Mar",
+        "translatedName": "Seafood Crepes",
+        "items": [
+          {
+            "name": "Palmitos",
+            "translatedName": "Hearts of Palm",
+            "description": "Del Putumayo al Ajillo o en Salsa de la Casa (Marco Polo).",
+            "translatedDescription": "From Putumayo, garlic style or in House Sauce (Marco Polo).",
+            "price": "$28.900",
+            "trademarks": []
+          },
+          {
+            "name": "Camarones",
+            "translatedName": "Shrimp",
+            "description": "Al Curry, al Ajillo o en Salsa de la Casa (Marco Polo).",
+            "translatedDescription": "Curry, garlic style or in House Sauce (Marco Polo).",
+            "price": "$30.500",
+            "trademarks": [],
+            "notes": "Garlic version also in Panne Cook"
+          },
+          {
+            "name": "Camarones con Espinaca",
+            "translatedName": "Shrimp with Spinach",
+            "description": "Camarones salteados con espinaca, ajo y un toque de crema.",
+            "translatedDescription": "Shrimp sautéed with spinach, garlic, and a touch of cream.",
+            "price": "$38.900",
+            "trademarks": []
+          },
+          {
+            "name": "Atún en Salsa de la Casa (Marco Polo)",
+            "translatedName": "Tuna in House Sauce (Marco Polo)",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$38.500",
+            "trademarks": []
+          },
+          {
+            "name": "Mar y Tierra",
+            "translatedName": "Surf and Turf",
+            "description": "Lomo fino y camarones en salsa de la casa con champiñones.",
+            "translatedDescription": "Tenderloin and shrimp in house sauce with mushrooms.",
+            "price": "$37.500",
+            "trademarks": []
+          },
+          {
+            "name": "Camarones Rosarito",
+            "translatedName": "Rosarito Shrimp",
+            "description": "Camarones en salsa mexicana con chipotle, lascas de aguacate y frijol rojo.",
+            "translatedDescription": "Shrimp in Mexican sauce with chipotle, avocado slices, and red beans.",
+            "price": "$38.900",
+            "trademarks": []
+          },
+          {
+            "name": "Salmón del Pacífico",
+            "translatedName": "Pacific Salmon",
+            "description": "Filete de salmón ahumado, queso crema, alcaparras, cebolla roja y eneldo.",
+            "translatedDescription": "Smoked salmon fillet, cream cheese, capers, red onion, and dill.",
+            "price": "$39.500",
+            "trademarks": []
+          },
+          {
+            "name": "Salmón Rosado",
+            "translatedName": "Pink Salmon",
+            "description": "Filete de salmón ahumado.",
+            "translatedDescription": "Smoked salmon fillet.",
+            "price": "$37.900",
+            "trademarks": []
+          },
+          {
+            "name": "Volcán del Caribe",
+            "translatedName": "Caribbean Volcano",
+            "description": "Frutos del mar salteados con pimentón, cebolla, ajo y un toque de ron. Servido en una cama de puré de plátano maduro.",
+            "translatedDescription": "Sautéed seafood with bell pepper, onion, garlic, and a touch of rum. Served on a bed of mashed ripe plantain.",
+            "price": "$34.500",
+            "trademarks": []
+          },
+          {
+            "name": "Encanto Tropical",
+            "translatedName": "Tropical Charm",
+            "description": "Crepe de camarones y calamares en su tinta, langostinos y calamares, crema de ají amarillo, crocante de plátano y coral de remolacha.",
+            "translatedDescription": "Shrimp and squid crepe in its ink, prawns and squid, yellow chili cream, crispy plantain, and beetroot coral.",
+            "price": "$36.900",
+            "trademarks": []
+          },
+          {
+            "name": "Camarones al Ají Panka",
+            "translatedName": "Aji Panka Shrimp",
+            "description": "Ají panka originario de los Andes del Perú. Con puré de fríjol al cilantro, aguacate, rúgula, champiñones de París y cebolla roja.",
+            "translatedDescription": "Aji panka originating from the Peruvian Andes. With cilantro bean puree, avocado, arugula, Paris mushrooms, and red onion.",
+            "price": "$28.500",
+            "trademarks": []
+          }
+        ]
+      },
+      {
+        "name": "Crepes Vegetarianos",
+        "translatedName": "Vegetarian Crepes",
+        "items": [
+          {
+            "name": "Espinaca al Ajillo y Salsa de Espinaca",
+            "translatedName": "Garlic Spinach and Spinach Sauce",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$19.900",
+            "trademarks": []
+          },
+          {
+            "name": "Sicilia",
+            "translatedName": "Sicily",
+            "description": "Berenjena, zucchini, pimentón asado, tomate cherry, queso mozzarella y salsa napolitana.",
+            "translatedDescription": "Eggplant, zucchini, roasted bell pepper, cherry tomato, mozzarella cheese, and Neapolitan sauce.",
+            "price": "$21.900",
+            "trademarks": []
+          },
+          {
+            "name": "Natura",
+            "translatedName": "Natura",
+            "description": "Champiñones, espárragos, alcachofas, tomate seco y salsa blanca.",
+            "translatedDescription": "Mushrooms, asparagus, artichokes, sun-dried tomato, and white sauce.",
+            "price": "$19.900",
+            "trademarks": []
+          },
+          {
+            "name": "Napolitana",
+            "translatedName": "Neapolitan",
+            "description": "Queso mozzarella, salsa napolitana y albahaca.",
+            "translatedDescription": "Mozzarella cheese, Neapolitan sauce, and basil.",
+            "price": "$18.900",
+            "trademarks": []
+          },
+          {
+            "name": "Toscana",
+            "translatedName": "Tuscany",
+            "description": "Queso de cabra, espinacas, tomate seco y nueces.",
+            "translatedDescription": "Goat cheese, spinach, sun-dried tomato, and walnuts.",
+            "price": "$21.900",
+            "trademarks": []
+          },
+          {
+            "name": "Parmesana",
+            "translatedName": "Parmesan",
+            "description": "Berenjena asada con salsa pomodoro, queso parmesano y albahaca.",
+            "translatedDescription": "Roasted eggplant with pomodoro sauce, Parmesan cheese, and basil.",
+            "price": "$22.900",
+            "trademarks": []
+          },
+          {
+            "name": "Primavera Vegetariana",
+            "translatedName": "Vegetarian Spring",
+            "description": "Alcachofas, champiñones, espárragos, pimentón, cebolla y tomate cherry salteados en aceite de oliva.",
+            "translatedDescription": "Artichokes, mushrooms, asparagus, bell pepper, onion, and cherry tomato sautéed in olive oil.",
+            "price": "$20.900",
+            "trademarks": []
+          },
+          {
+            "name": "Caprino",
+            "translatedName": "Goat Cheese",
+            "description": "Queso de cabra, peras caramelizadas, nueces y reducción balsámica.",
+            "translatedDescription": "Goat cheese, caramelized pears, walnuts, and balsamic reduction.",
+            "price": "$24.900",
+            "trademarks": []
+          },
+          {
+            "name": "Espinaca, Queso Feta y Champiñones Glaseados",
+            "translatedName": "Spinach, Feta Cheese and Glazed Mushrooms",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$29.500",
+            "trademarks": []
+          }
+        ]
+      },
+      {
+        "name": "Ensaladas",
+        "translatedName": "Salads",
+        "items": [
+          {
+            "name": "Ensalada Thai Beef Salad",
+            "translatedName": "Thai Beef Salad",
+            "description": "Tiras de lomo de res marinado en soya y jengibre, mix de lechugas, pepino, tomate cherry, maní tostado y aderezo thai.",
+            "translatedDescription": "Strips of beef tenderloin marinated in soy and ginger, mixed greens, cucumber, cherry tomato, toasted peanuts, and Thai dressing.",
+            "price": "$27.900",
+            "trademarks": []
+          },
+          {
+            "name": "César",
+            "translatedName": "Caesar",
+            "description": "Con pollo: $28.900, Con salmón ahumado: $31.900",
+            "translatedDescription": "With chicken: $28.900, With smoked salmon: $31.900",
+            "price": "$24.200",
+            "trademarks": []
+          },
+          {
+            "name": "Griega",
+            "translatedName": "Greek",
+            "description": "Misma que en Entradas",
+            "translatedDescription": "Same as in Appetizers",
+            "price": "$21.900",
+            "trademarks": [],
+            "notes": "Repeated from 'Entradas' category"
+          },
+          {
+            "name": "Thai",
+            "translatedName": "Thai",
+            "description": "Mix de lechugas, pollo al curry con leche de coco, mango, pimentón, cebolla roja, maní y aderezo de cilantro.",
+            "translatedDescription": "Mixed greens, curried chicken with coconut milk, mango, bell pepper, red onion, peanuts, and cilantro dressing.",
+            "price": "$25.900",
+            "trademarks": []
+          },
+          {
+            "name": "Mediterránea",
+            "translatedName": "Mediterranean",
+            "description": "Mix de lechugas, camarones al ajillo, calamares apanados, aceitunas kalamata, tomate cherry, pepino y vinagreta de limón y orégano.",
+            "translatedDescription": "Mixed greens, garlic shrimp, breaded calamari, Kalamata olives, cherry tomato, cucumber, and lemon-oregano vinaigrette.",
+            "price": "$29.400",
+            "trademarks": []
+          },
+          {
+            "name": "Montes de María",
+            "translatedName": "Montes de María",
+            "description": "Mix de lechugas, queso costeño asado, aguacate, tomate cherry, maíz tierno, plátano maduro en trozos y vinagreta de suero costeño.",
+            "translatedDescription": "Mixed greens, grilled costeño cheese, avocado, cherry tomato, sweet corn, ripe plantain pieces, and costeño buttermilk vinaigrette.",
+            "price": "$25.900",
+            "trademarks": []
+          },
+          {
+            "name": "Homenaje",
+            "translatedName": "Tribute",
+            "description": "Mix de lechugas, jamón serrano, queso de cabra, higos caramelizados, nueces y vinagreta balsámica.",
+            "translatedDescription": "Mixed greens, serrano ham, goat cheese, caramelized figs, walnuts, and balsamic vinaigrette.",
+            "price": "$28.900",
+            "trademarks": []
+          },
+          {
+            "name": "Lama Salad",
+            "translatedName": "Lama Salad",
+            "description": "Mix de lechugas, salmón ahumado, aguacate, queso crema, alcaparras, cebolla roja y aderezo de eneldo.",
+            "translatedDescription": "Mixed greens, smoked salmon, avocado, cream cheese, capers, red onion, and dill dressing.",
+            "price": "$28.500",
+            "trademarks": []
+          },
+          {
+            "name": "Gran Camarón",
+            "translatedName": "Great Shrimp",
+            "description": "Lechuga romana, camarones jumbo a la parrilla, aguacate, tomate cherry, maíz tierno y aderezo cremoso de chipotle.",
+            "translatedDescription": "Romaine lettuce, grilled jumbo shrimp, avocado, cherry tomato, sweet corn, and creamy chipotle dressing.",
+            "price": "$38.900",
+            "trademarks": []
+          },
+          {
+            "name": "Valparaíso",
+            "translatedName": "Valparaíso",
+            "description": "Mix de lechugas, pulpo a la parrilla, camarones, calamares, pimentón asado, aceitunas y vinagreta de pimentón ahumado.",
+            "translatedDescription": "Mixed greens, grilled octopus, shrimp, calamari, roasted bell pepper, olives, and smoked paprika vinaigrette.",
+            "price": "$39.400",
+            "trademarks": []
+          },
+          {
+            "name": "Mozzarella",
+            "translatedName": "Mozzarella",
+            "description": "Mozzarella de búfala fresca, variedad de tomates heirloom, rúgula, pesto de albahaca y reducción balsámica.",
+            "translatedDescription": "Fresh buffalo mozzarella, variety of heirloom tomatoes, arugula, basil pesto, and balsamic reduction.",
+            "price": "$34.500",
+            "trademarks": []
+          },
+          {
+            "name": "Portofino",
+            "translatedName": "Portofino",
+            "description": "Mix de lechugas, atún sellado en costra de ajonjolí, huevo duro, habichuelas, papa, tomate cherry, aceitunas y vinagreta de mostaza dijon.",
+            "translatedDescription": "Mixed greens, sesame-crusted seared tuna, hard-boiled egg, green beans, potato, cherry tomato, olives, and Dijon mustard vinaigrette.",
+            "price": "$28.900",
+            "trademarks": []
+          },
+          {
+            "name": "Emiliana de Quesos",
+            "translatedName": "Emiliana of Cheeses",
+            "description": "Mix de lechugas, queso azul, queso brie, queso parmesano, nueces caramelizadas, peras y vinagreta de miel mostaza.",
+            "translatedDescription": "Mixed greens, blue cheese, brie cheese, Parmesan cheese, caramelized walnuts, pears, and honey-mustard vinaigrette.",
+            "price": "$27.900",
+            "trademarks": []
+          },
+          {
+            "name": "Roastbeef Salad",
+            "translatedName": "Roast Beef Salad",
+            "description": "Finas lonjas de roastbeef, mix de lechugas, champiñones, tomate cherry, queso parmesano y vinagreta de mostaza antigua.",
+            "translatedDescription": "Thin slices of roast beef, mixed greens, mushrooms, cherry tomato, Parmesan cheese, and old-style mustard vinaigrette.",
+            "price": "$39.400",
+            "trademarks": []
+          },
+          {
+            "name": "Trucha Ahumada",
+            "translatedName": "Smoked Trout",
+            "description": "Trucha ahumada desmenuzada, mix de lechugas, aguacate, tomate cherry, huevo duro y aderezo de alcaparras.",
+            "translatedDescription": "Shredded smoked trout, mixed greens, avocado, cherry tomato, hard-boiled egg, and caper dressing.",
+            "price": "$37.400",
+            "trademarks": []
+          }
+        ]
+      },
+      {
+        "name": "Sabores Veganos",
+        "translatedName": "Vegan Flavors",
+        "items": [
+          {
+            "name": "Crepe Vegan Boloñesa",
+            "translatedName": "Vegan Bolognese Crepe",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$25.900",
+            "trademarks": []
+          },
+          {
+            "name": "Crepe Vegan Champiñones al Ajillo",
+            "translatedName": "Vegan Garlic Mushroom Crepe",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$24.900",
+            "trademarks": []
+          },
+          {
+            "name": "Crepe Sombrero Vueltiao Vegan",
+            "translatedName": "Vegan Sombrero Vueltiao Crepe",
+            "description": "Plátano maduro, hogao vegano, aguacate y frijol negro.",
+            "translatedDescription": "Ripe plantain, vegan hogao, avocado, and black beans.",
+            "price": "$25.900",
+            "trademarks": []
+          },
+          {
+            "name": "Sopa Covarachia Vegana",
+            "translatedName": "Vegan Covarachia Soup",
+            "description": "Sopa de frijoles rojos con tofu ahumado, plátano maduro, aguacate, maíz y hogao vegano.",
+            "translatedDescription": "Red bean soup with smoked tofu, ripe plantain, avocado, corn, and vegan hogao.",
+            "price": "$15.400",
+            "trademarks": []
+          }
+        ]
+      },
+      {
+        "name": "Panne Cook",
+        "translatedName": "Panne Cook",
+        "items": [
+          {
+            "name": "Pollo y Champiñones",
+            "translatedName": "Chicken and Mushrooms",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$29.900",
+            "trademarks": [],
+            "notes": "Also available as Mini Panne Cook"
+          },
+          {
+            "name": "Stroganoff",
+            "translatedName": "Stroganoff",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$30.900",
+            "trademarks": [],
+            "notes": "Also available as Meat Crepe and Mini Panne Cook"
+          },
+          {
+            "name": "Lomito Pimienta",
+            "translatedName": "Pepper Steak",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$35.400",
+            "trademarks": [],
+            "notes": "Also available as Meat Crepe and Mini Panne Cook"
+          },
+          {
+            "name": "Camarones al Ajillo",
+            "translatedName": "Garlic Shrimp",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$31.900",
+            "trademarks": [],
+            "notes": "Shrimp also available in Seafood Crepes, Mini Panne Cook version is just 'Camarones'"
+          },
+          {
+            "name": "Vegetariano",
+            "translatedName": "Vegetarian",
+            "description": "Champiñones, espárragos, alcachofas y pimentón en salsa blanca vegana.",
+            "translatedDescription": "Mushrooms, asparagus, artichokes, and bell pepper in vegan white sauce.",
+            "price": "$28.700",
+            "trademarks": []
+          }
+        ]
+      },
+      {
+        "name": "Pitas",
+        "translatedName": "Pitas",
+        "items": [
+          {
+            "name": "Pita Árabe",
+            "translatedName": "Arabic Pita",
+            "description": "Falafel, hummus, tahine, ensalada israelí y pan pita.",
+            "translatedDescription": "Falafel, hummus, tahini, Israeli salad, and pita bread.",
+            "price": "$21.500",
+            "trademarks": []
+          },
+          {
+            "name": "Pavo",
+            "translatedName": "Turkey",
+            "description": "Pavo desmechado, lechuga, tomate, pepinillos y salsa de mostaza y miel en pan pita.",
+            "translatedDescription": "Shredded turkey, lettuce, tomato, pickles, and honey mustard sauce in pita bread.",
+            "price": "$20.900",
+            "trademarks": []
+          },
+          {
+            "name": "Doble Pocket",
+            "translatedName": "Double Pocket",
+            "description": "Doble porción de pollo o pavo con champiñones, queso y salsa bechamel en pan pita.",
+            "translatedDescription": "Double portion of chicken or turkey with mushrooms, cheese, and bechamel sauce in pita bread.",
+            "price": "$25.500",
+            "trademarks": []
+          },
+          {
+            "name": "Popeye Pocket",
+            "translatedName": "Popeye Pocket",
+            "description": "Espinacas salteadas con queso feta y nueces en pan pita.",
+            "translatedDescription": "Sautéed spinach with feta cheese and walnuts in pita bread.",
+            "price": "$19.900",
+            "trademarks": []
+          },
+          {
+            "name": "Tuna Pocket",
+            "translatedName": "Tuna Pocket",
+            "description": "Atún, maíz tierno, apio, mayonesa ligera y lechuga en pan pita.",
+            "translatedDescription": "Tuna, sweet corn, celery, light mayonnaise, and lettuce in pita bread.",
+            "price": "$20.900",
+            "trademarks": []
+          },
+          {
+            "name": "Mozzarella Pocket",
+            "translatedName": "Mozzarella Pocket",
+            "description": "Queso mozzarella derretido con tomate y albahaca en pan pita.",
+            "translatedDescription": "Melted mozzarella cheese with tomato and basil in pita bread.",
+            "price": "$14.900",
+            "trademarks": []
+          },
+          {
+            "name": "Champiñón Pocket",
+            "translatedName": "Mushroom Pocket",
+            "description": "Champiñones salteados con ajo y perejil, queso mozzarella en pan pita.",
+            "translatedDescription": "Sautéed mushrooms with garlic and parsley, mozzarella cheese in pita bread.",
+            "price": "$15.900",
+            "trademarks": []
+          },
+          {
+            "name": "Champiñón Pocket con Huevo",
+            "translatedName": "Mushroom Pocket with Egg",
+            "description": "Champiñones salteados con ajo y perejil, huevo y queso mozzarella en pan pita.",
+            "translatedDescription": "Sautéed mushrooms with garlic and parsley, egg, and mozzarella cheese in pita bread.",
+            "price": "$20.500",
+            "trademarks": []
+          },
+          {
+            "name": "Caprese Pocket",
+            "translatedName": "Caprese Pocket",
+            "description": "Mozzarella fresca, tomate, albahaca y pesto en pan pita.",
+            "translatedDescription": "Fresh mozzarella, tomato, basil, and pesto in pita bread.",
+            "price": "$20.900",
+            "trademarks": []
+          },
+          {
+            "name": "Opera",
+            "translatedName": "Opera",
+            "description": "Roastbeef, queso provolone, tomate cherry confitado y rúgula con salsa de mostaza antigua en pan pita.",
+            "translatedDescription": "Roast beef, provolone cheese, confit cherry tomato, and arugula with old-style mustard sauce in pita bread.",
+            "price": "$25.900",
+            "trademarks": []
+          },
+          {
+            "name": "Siciliana",
+            "translatedName": "Sicilian",
+            "description": "Berenjena, zucchini, pimentón asado, queso mozzarella y salsa napolitana en pan pita.",
+            "translatedDescription": "Eggplant, zucchini, roasted bell pepper, mozzarella cheese, and Neapolitan sauce in pita bread.",
+            "price": "$23.900",
+            "trademarks": []
+          },
+          {
+            "name": "Vegetariana",
+            "translatedName": "Vegetarian",
+            "description": "Hummus, falafel, berenjena asada, pimentón, pepino, lechuga y tomate en pan pita.",
+            "translatedDescription": "Hummus, falafel, roasted eggplant, bell pepper, cucumber, lettuce, and tomato in pita bread.",
+            "price": "$21.900",
+            "trademarks": []
+          },
+          {
+            "name": "Griega",
+            "translatedName": "Greek",
+            "description": "Pollo a la parrilla, lechuga, tomate, pepino, cebolla morada, queso feta y salsa tzatziki en pan pita.",
+            "translatedDescription": "Grilled chicken, lettuce, tomato, cucumber, red onion, feta cheese, and tzatziki sauce in pita bread.",
+            "price": "$24.500",
+            "trademarks": []
+          }
+        ]
+      },
+      {
+        "name": "Mini Panne Cook",
+        "translatedName": "Mini Panne Cook",
+        "items": [
+          {
+            "name": "Pollo y Champiñones",
+            "translatedName": "Chicken and Mushrooms",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$25.800",
+            "trademarks": [],
+            "notes": "Also available as regular Panne Cook"
+          },
+          {
+            "name": "Stroganoff",
+            "translatedName": "Stroganoff",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$25.400",
+            "trademarks": [],
+            "notes": "Also available as Meat Crepe and regular Panne Cook"
+          },
+          {
+            "name": "Lomito Pimienta",
+            "translatedName": "Pepper Steak",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$31.500",
+            "trademarks": [],
+            "notes": "Also available as Meat Crepe and regular Panne Cook"
+          },
+          {
+            "name": "Camarones",
+            "translatedName": "Shrimp",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$38.900",
+            "trademarks": [],
+            "notes": "Regular Panne Cook has 'Camarones al Ajillo'"
+          }
+        ]
+      },
+      {
+        "name": "Waffles de Sal",
+        "translatedName": "Savory Waffles",
+        "items": [
+          {
+            "name": "Waffle Sándano",
+            "translatedName": "Sandano Waffle",
+            "description": "Waffle con jamón, queso, mezcla de quesos, jamón ahumado y huevo.",
+            "translatedDescription": "Waffle with ham, cheese, mixed cheeses, smoked ham, and egg.",
+            "price": "$26.500",
+            "trademarks": []
+          },
+          {
+            "name": "Waffle Madam",
+            "translatedName": "Madam Waffle",
+            "description": "Waffle con pollo desmechado, queso, tomate, rúgula y dijonnaise. Acompañado con chips de arracacha.",
+            "translatedDescription": "Waffle with shredded chicken, cheese, tomato, arugula, and Dijonnaise. Served with arracacha chips.",
+            "price": "$29.900",
+            "trademarks": []
+          },
+          {
+            "name": "Waffle D'Chef",
+            "translatedName": "D'Chef Waffle",
+            "description": "Waffle con huevo, tocineta, queso con 7 granos y suero costeño.",
+            "translatedDescription": "Waffle with egg, bacon, 7-grain cheese, and costeño buttermilk.",
+            "price": "$14.200",
+            "trademarks": []
+          },
+          {
+            "name": "Mini Waffle Dalí",
+            "translatedName": "Mini Dalí Waffle",
+            "description": "Mini waffle con jamón y un toque de ricotta.",
+            "translatedDescription": "Mini waffle with ham and a touch of ricotta.",
+            "price": "$7.900",
+            "trademarks": []
+          },
+          {
+            "name": "Mini Waffle D'Yuca",
+            "translatedName": "Mini D'Yuca Waffle",
+            "description": "Mini waffle de yuca con hogao, panceta y queso paipa.",
+            "translatedDescription": "Mini yuca waffle with hogao, pancetta, and Paipa cheese.",
+            "price": "$13.900",
+            "trademarks": []
+          },
+          {
+            "name": "Aussie",
+            "translatedName": "Aussie",
+            "description": "(Mini waffles dulces)",
+            "translatedDescription": "(Sweet mini waffles) - Note: Appears miscategorized under Savory Waffles in image",
+            "price": "$16.400",
+            "trademarks": []
+          }
+        ]
+      },
+      {
+        "name": "Adiciones (Salado)",
+        "translatedName": "Add-ons (Savory)",
+        "items": [
+          {
+            "name": "Salsa de Ternera",
+            "translatedName": "Veal Sauce",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$10.300",
+            "trademarks": []
+          },
+          {
+            "name": "Pechuga de Pavo",
+            "translatedName": "Turkey Breast",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$9.400",
+            "trademarks": []
+          },
+          {
+            "name": "Pollo",
+            "translatedName": "Chicken",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$9.400",
+            "trademarks": []
+          },
+          {
+            "name": "Salmón Ahumado",
+            "translatedName": "Smoked Salmon",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$16.900",
+            "trademarks": []
+          },
+          {
+            "name": "Trucha Ahumada",
+            "translatedName": "Smoked Trout",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$17.900",
+            "trademarks": []
+          }
+        ]
+      },
+      {
+        "name": "Delizzia",
+        "translatedName": "Delight",
+        "items": [
+          {
+            "name": "Banana Caramel",
+            "translatedName": "Caramel Banana",
+            "description": "Crepe relleno de banano caramelizado, helado de vainilla y salsa de caramelo.",
+            "translatedDescription": "Crepe filled with caramelized banana, vanilla ice cream, and caramel sauce.",
+            "price": "$12.800",
+            "trademarks": []
+          },
+          {
+            "name": "Copa Tentación",
+            "translatedName": "Temptation Cup",
+            "description": "Helado de chocolate, brownie, salsa de chocolate, crema chantilly y cereza.",
+            "translatedDescription": "Chocolate ice cream, brownie, chocolate sauce, whipped cream, and cherry.",
+            "price": "$12.800",
+            "trademarks": []
+          },
+          {
+            "name": "Tentación de Chocolate",
+            "translatedName": "Chocolate Temptation",
+            "description": "Crepe de chocolate, helado de chocolate, salsa de chocolate y crema chantilly",
+            "translatedDescription": "Chocolate crepe, chocolate ice cream, chocolate sauce and whipped cream",
+            "price": "$9.800",
+            "trademarks": []
+          },
+          {
+            "name": "Manzana Alsaciana",
+            "translatedName": "Alsatian Apple",
+            "description": "Crepe de manzana tibia con canela, helado de vainilla y salsa de caramelo.",
+            "translatedDescription": "Warm apple crepe with cinnamon, vanilla ice cream, and caramel sauce.",
+            "price": "$10.900",
+            "trademarks": []
+          },
+          {
+            "name": "Fantasía de Arequipe",
+            "translatedName": "Dulce de Leche Fantasy",
+            "description": "Crepe relleno de arequipe, helado de arequipe y salsa de arequipe.",
+            "translatedDescription": "Crepe filled with dulce de leche, dulce de leche ice cream, and dulce de leche sauce.",
+            "price": "$10.900",
+            "trademarks": []
+          },
+          {
+            "name": "Copa Malcoffles",
+            "translatedName": "Malcoffles Cup",
+            "description": "Waffle con helado de café, salsa de café, licor de café y crema chantilly.",
+            "translatedDescription": "Waffle with coffee ice cream, coffee sauce, coffee liqueur, and whipped cream.",
+            "price": "$13.900",
+            "trademarks": []
+          },
+          {
+            "name": "Fresa Imperial",
+            "translatedName": "Imperial Strawberry",
+            "description": "Crepe con fresas frescas, helado de fresa y crema chantilly.",
+            "translatedDescription": "Crepe with fresh strawberries, strawberry ice cream, and whipped cream.",
+            "price": "$9.900",
+            "trademarks": []
+          }
+        ]
+      },
+      {
+        "name": "Copas y Copas",
+        "translatedName": "Cups and Cups (Sundaes)",
+        "items": [
+          {
+            "name": "Suprema",
+            "translatedName": "Supreme",
+            "description": "Helado de vainilla, fresas, salsa de fresa, merengue y crema chantilly.",
+            "translatedDescription": "Vanilla ice cream, strawberries, strawberry sauce, meringue, and whipped cream.",
+            "price": "$13.900",
+            "trademarks": []
+          },
+          {
+            "name": "Dama Blanca",
+            "translatedName": "White Lady",
+            "description": "Helado de vainilla, salsa de chocolate caliente y crema chantilly.",
+            "translatedDescription": "Vanilla ice cream, hot chocolate sauce, and whipped cream.",
+            "price": "$10.900",
+            "trademarks": []
+          },
+          {
+            "name": "Arequipe Nevado",
+            "translatedName": "Snowy Dulce de Leche",
+            "description": "Helado de arequipe, salsa de arequipe, merenguitos y crema chantilly.",
+            "translatedDescription": "Dulce de leche ice cream, dulce de leche sauce, mini meringues, and whipped cream.",
+            "price": "$9.800",
+            "trademarks": []
+          },
+          {
+            "name": "Almendras",
+            "translatedName": "Almonds",
+            "description": "Helado de almendra, salsa de chocolate, almendras fileteadas y crema chantilly.",
+            "translatedDescription": "Almond ice cream, chocolate sauce, sliced almonds, and whipped cream.",
+            "price": "$10.900",
+            "trademarks": []
+          },
+          {
+            "name": "Brownie",
+            "translatedName": "Brownie",
+            "description": "Brownie tibio con helado de vainilla, salsa de chocolate y crema chantilly.",
+            "translatedDescription": "Warm brownie with vanilla ice cream, chocolate sauce, and whipped cream.",
+            "price": "$12.900",
+            "trademarks": []
+          },
+          {
+            "name": "Arequipe Festivo",
+            "translatedName": "Festive Dulce de Leche",
+            "description": "Copa con helado de Arequipe con trozos de brevas, salsa de arequipe y crema chantilly.",
+            "translatedDescription": "Cup with Dulce de Leche ice cream with fig pieces, dulce de leche sauce, and whipped cream.",
+            "price": "$12.500",
+            "trademarks": []
+          },
+          {
+            "name": "Banana Royal",
+            "translatedName": "Banana Royal",
+            "description": "Banana, helado de vainilla y chocolate con topping de fresa y chocolate, crema chantilly y barquillo.",
+            "translatedDescription": "Banana, vanilla and chocolate ice cream with strawberry and chocolate topping, whipped cream, and wafer.",
+            "price": "$12.900",
+            "trademarks": []
+          },
+          {
+            "name": "Dulce Encanto",
+            "translatedName": "Sweet Charm",
+            "description": "Helado de frutos rojos y vainilla, coulis de frutos rojos, merengue y crema chantilly.",
+            "translatedDescription": "Red berries and vanilla ice cream, red berries coulis, meringue, and whipped cream.",
+            "price": "$12.900",
+            "trademarks": []
+          },
+          {
+            "name": "Tentación Clásica",
+            "translatedName": "Classic Temptation",
+            "description": "Helado de Vainilla, trozos de banano, salsa de chocolate y crema chantilly.",
+            "translatedDescription": "Vanilla ice cream, banana pieces, chocolate sauce, and whipped cream.",
+            "price": "$10.300",
+            "trademarks": []
+          }
+        ]
+      },
+      {
+        "name": "Helados Infantiles",
+        "translatedName": "Kids' Ice Creams",
+        "items": [
+          {
+            "name": "Ronny",
+            "translatedName": "Ronny",
+            "description": "Helado de Vainilla con chips de chocolate y barquillos.",
+            "translatedDescription": "Vanilla ice cream with chocolate chips and wafers.",
+            "price": "$8.900",
+            "trademarks": []
+          },
+          {
+            "name": "Piggy",
+            "translatedName": "Piggy",
+            "description": "Helado de fresa con forma de cerdito, galletas y crema chantilly.",
+            "translatedDescription": "Strawberry ice cream shaped like a pig, cookies, and whipped cream.",
+            "price": "$8.900",
+            "trademarks": []
+          },
+          {
+            "name": "Snowman",
+            "translatedName": "Snowman",
+            "description": "Helado de vainilla con forma de muñeco de nieve, salsa de chocolate y crema chantilly.",
+            "translatedDescription": "Vanilla ice cream shaped like a snowman, chocolate sauce, and whipped cream.",
+            "price": "$8.900",
+            "trademarks": []
+          },
+          {
+            "name": "Rodolfo",
+            "translatedName": "Rodolfo",
+            "description": "Helado de chocolate con forma de reno, pretzels y crema chantilly.",
+            "translatedDescription": "Chocolate ice cream shaped like a reindeer, pretzels, and whipped cream.",
+            "price": "$8.900",
+            "trademarks": []
+          }
+        ]
+      },
+      {
+        "name": "Café y Placer",
+        "translatedName": "Coffee and Pleasure",
+        "items": [
+          {
+            "name": "Tinto / Americano",
+            "translatedName": "Black Coffee / Americano",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$4.400",
+            "trademarks": []
+          },
+          {
+            "name": "Espresso",
+            "translatedName": "Espresso",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$4.400",
+            "trademarks": []
+          },
+          {
+            "name": "Espresso Doble",
+            "translatedName": "Double Espresso",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$5.900",
+            "trademarks": []
+          },
+          {
+            "name": "Café Vienés",
+            "translatedName": "Vienna Coffee",
+            "description": "Espresso con crema chantilly y canela.",
+            "translatedDescription": "Espresso with whipped cream and cinnamon.",
+            "price": "$7.200",
+            "trademarks": []
+          },
+          {
+            "name": "Latte",
+            "translatedName": "Latte",
+            "description": "Espresso con leche vaporizada.",
+            "translatedDescription": "Espresso with steamed milk.",
+            "price": "$7.200",
+            "trademarks": []
+          },
+          {
+            "name": "Cappuccino",
+            "translatedName": "Cappuccino",
+            "description": "Espresso con leche vaporizada y espuma de leche.",
+            "translatedDescription": "Espresso with steamed milk and milk foam.",
+            "price": "$7.200",
+            "trademarks": []
+          },
+          {
+            "name": "Cappuccino Caramelo",
+            "translatedName": "Caramel Cappuccino",
+            "description": "Cappuccino con salsa de caramelo y crema chantilly.",
+            "translatedDescription": "Cappuccino with caramel sauce and whipped cream.",
+            "price": "$8.200",
+            "trademarks": []
+          },
+          {
+            "name": "Mocaccino",
+            "translatedName": "Mocaccino",
+            "description": "Espresso con chocolate, leche vaporizada y crema chantilly.",
+            "translatedDescription": "Espresso with chocolate, steamed milk, and whipped cream.",
+            "price": "$8.200",
+            "trademarks": []
+          },
+          {
+            "name": "Affogato",
+            "translatedName": "Affogato",
+            "description": "Helado de vainilla bañado en espresso caliente.",
+            "translatedDescription": "Vanilla ice cream topped with hot espresso.",
+            "price": "$9.900",
+            "trademarks": []
+          },
+          {
+            "name": "Chocochino",
+            "translatedName": "Chocochino",
+            "description": "Chocolate caliente con espresso y crema chantilly.",
+            "translatedDescription": "Hot chocolate with espresso and whipped cream.",
+            "price": "$9.900",
+            "trademarks": []
+          }
+        ]
+      },
+      {
+        "name": "Chocolates",
+        "translatedName": "Chocolates",
+        "items": [
+          {
+            "name": "Chocolate Tradicional",
+            "translatedName": "Traditional Chocolate",
+            "description": "Chocolate de la casa, preparado con leche.",
+            "translatedDescription": "House chocolate, prepared with milk.",
+            "price": "$8.200",
+            "trademarks": []
+          },
+          {
+            "name": "Hot Chocolate Marshmallow",
+            "translatedName": "Hot Chocolate Marshmallow",
+            "description": "Chocolate caliente con marshmallows y crema chantilly.",
+            "translatedDescription": "Hot chocolate with marshmallows and whipped cream.",
+            "price": "$9.500",
+            "trademarks": []
+          },
+          {
+            "name": "Chocolate Blanco",
+            "translatedName": "White Chocolate",
+            "description": "Chocolate blanco caliente con crema chantilly.",
+            "translatedDescription": "Hot white chocolate with whipped cream.",
+            "price": "$8.200",
+            "trademarks": []
+          },
+          {
+            "name": "Chocolate Nevado",
+            "translatedName": "Snowy Chocolate",
+            "description": "Chocolate frío con helado de vainilla y crema chantilly.",
+            "translatedDescription": "Cold chocolate with vanilla ice cream and whipped cream.",
+            "price": "$9.200",
+            "trademarks": []
+          }
+        ]
+      },
+      {
+        "name": "Aromáticas",
+        "translatedName": "Herbal Teas",
+        "items": [
+          {
+            "name": "Frutos Rojos",
+            "translatedName": "Red Berries",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$8.500",
+            "trademarks": []
+          },
+          {
+            "name": "Hierbabuena y Limonaria",
+            "translatedName": "Spearmint and Lemongrass",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$8.500",
+            "trademarks": []
+          }
+        ]
+      },
+      {
+        "name": "Té Inglés",
+        "translatedName": "English Tea",
+        "items": [
+          {
+            "name": "Variedad de Tés",
+            "translatedName": "Variety of Teas",
+            "description": "Té negro, verde o de hierbas.",
+            "translatedDescription": "Black, green, or herbal tea.",
+            "price": "$8.500",
+            "trademarks": []
+          },
+          {
+            "name": "Matcha Latte",
+            "translatedName": "Matcha Latte",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$12.500",
+            "trademarks": []
+          },
+          {
+            "name": "Matcha Latte con Leche de Almendras",
+            "translatedName": "Matcha Latte with Almond Milk",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$16.200",
+            "trademarks": []
+          }
+        ]
+      },
+      {
+        "name": "Café Frío",
+        "translatedName": "Iced Coffee",
+        "items": [
+          {
+            "name": "Moka Moka",
+            "translatedName": "Moka Moka",
+            "description": "Café frío con helado de chocolate y crema chantilly.",
+            "translatedDescription": "Iced coffee with chocolate ice cream and whipped cream.",
+            "price": "$14.500",
+            "trademarks": []
+          },
+          {
+            "name": "Frapuccino",
+            "translatedName": "Frappuccino",
+            "description": "Café frío batido con hielo, leche y crema chantilly.",
+            "translatedDescription": "Iced coffee blended with ice, milk, and whipped cream.",
+            "price": "$12.900",
+            "trademarks": []
+          },
+          {
+            "name": "Frozen Colombiano",
+            "translatedName": "Colombian Frozen",
+            "description": "Granizado de café con leche condensada y crema chantilly.",
+            "translatedDescription": "Coffee granita with condensed milk and whipped cream.",
+            "price": "$8.200",
+            "trademarks": []
+          },
+          {
+            "name": "Nevado Café",
+            "translatedName": "Snowy Coffee",
+            "description": "Café frío con helado de vainilla y cubos de hielo con leche.",
+            "translatedDescription": "Iced coffee with vanilla ice cream and ice cubes with milk.",
+            "price": "$14.200",
+            "trademarks": []
+          }
+        ]
+      },
+      {
+        "name": "Vinos",
+        "translatedName": "Wines",
+        "items": [
+          {
+            "name": "Vino Caliente (Copa)",
+            "translatedName": "Hot Wine (Glass)",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$18.500",
+            "trademarks": []
+          },
+          {
+            "name": "Vino Tinto (Copa)",
+            "translatedName": "Red Wine (Glass)",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$18.500",
+            "trademarks": []
+          },
+          {
+            "name": "Blanco de Verano (Copa)",
+            "translatedName": "Summer White (Glass)",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$20.900",
+            "trademarks": []
+          },
+          {
+            "name": "Vino Tinto Botella",
+            "translatedName": "Red Wine Bottle",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$82.500",
+            "trademarks": []
+          },
+          {
+            "name": "Vino Blanco Botella",
+            "translatedName": "White Wine Bottle",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$89.900",
+            "trademarks": []
+          },
+          {
+            "name": "Copa AMORETINTO - Blanco",
+            "translatedName": "AMORETINTO Glass - White",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$24.200",
+            "trademarks": ["AMORETINTO"]
+          },
+          {
+            "name": "Copa AMORETINTO - Rosado",
+            "translatedName": "AMORETINTO Glass - Rosé",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$24.200",
+            "trademarks": ["AMORETINTO"]
+          },
+          {
+            "name": "Vino Rosado Botella",
+            "translatedName": "Rosé Wine Bottle",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$89.900",
+            "trademarks": []
+          },
+          {
+            "name": "Cava Brut Botella",
+            "translatedName": "Cava Brut Bottle",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$105.000",
+            "trademarks": []
+          },
+          {
+            "name": "Mini Prosecco",
+            "translatedName": "Mini Prosecco",
+            "description": "200ml. Origen Italia",
+            "translatedDescription": "200ml. Origin Italy",
+            "price": "$25.900",
+            "trademarks": []
+          },
+          {
+            "name": "Prosecco Botella",
+            "translatedName": "Prosecco Bottle",
+            "description": "750ml. Origen Italia",
+            "translatedDescription": "750ml. Origin Italy",
+            "price": "$88.900",
+            "trademarks": []
+          }
+        ]
+      },
+      {
+        "name": "Crepes Dulces",
+        "translatedName": "Sweet Crepes",
+        "items": [
+          {
+            "name": "Dulcinea",
+            "translatedName": "Dulcinea",
+            "description": "Crepe con helado de vainilla, cocada, salsa inglesa y crema chantilly.",
+            "translatedDescription": "Crepe with vanilla ice cream, cocada (coconut candy), English sauce, and whipped cream.",
+            "price": "$11.900",
+            "trademarks": []
+          },
+          {
+            "name": "Mantequilla y Azúcar",
+            "translatedName": "Butter and Sugar",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$6.900",
+            "trademarks": []
+          },
+          {
+            "name": "Arequipe",
+            "translatedName": "Dulce de Leche",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$8.900",
+            "trademarks": []
+          },
+          {
+            "name": "Arequipe y Queso",
+            "translatedName": "Dulce de Leche and Cheese",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$9.900",
+            "trademarks": []
+          },
+          {
+            "name": "Melocotón",
+            "translatedName": "Peach",
+            "description": "Crepe con melocotones en almíbar, helado de vainilla y crema chantilly.",
+            "translatedDescription": "Crepe with peaches in syrup, vanilla ice cream, and whipped cream.",
+            "price": "$10.500",
+            "trademarks": []
+          },
+          {
+            "name": "Nutella®",
+            "translatedName": "Nutella®",
+            "description": "Crepe con Nutella® y banano.",
+            "translatedDescription": "Crepe with Nutella® and banana.",
+            "price": "$11.900",
+            "trademarks": ["Nutella®"]
+          },
+          {
+            "name": "Nutella® con Fresas",
+            "translatedName": "Nutella® with Strawberries",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$16.500",
+            "trademarks": ["Nutella®"]
+          },
+          {
+            "name": "Arequipe y Queso con Fresas",
+            "translatedName": "Dulce de Leche and Cheese with Strawberries",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$12.200",
+            "trademarks": []
+          },
+          {
+            "name": "Suzette",
+            "translatedName": "Suzette",
+            "description": "Crepe con salsa de naranja, brandy y helado de vainilla.",
+            "translatedDescription": "Crepe with orange sauce, brandy, and vanilla ice cream.",
+            "price": "$12.200",
+            "trademarks": []
+          },
+          {
+            "name": "Coco Loco",
+            "translatedName": "Crazy Coconut",
+            "description": "Crepe con coco tostado, salsa de chocolate, helado de coco y crema chantilly.",
+            "translatedDescription": "Crepe with toasted coconut, chocolate sauce, coconut ice cream, and whipped cream.",
+            "price": "$9.900",
+            "trademarks": []
+          },
+          {
+            "name": "Tentation",
+            "translatedName": "Temptation",
+            "description": "Crepe de chocolate con helado de chocolate, salsa de chocolate y crema chantilly.",
+            "translatedDescription": "Chocolate crepe with chocolate ice cream, chocolate sauce, and whipped cream.",
+            "price": "$12.300",
+            "trademarks": []
+          },
+          {
+            "name": "Banana Lips",
+            "translatedName": "Banana Lips",
+            "description": "Crepe con banano, salsa de toffee, nueces, helado de vainilla y crema chantilly.",
+            "translatedDescription": "Crepe with banana, toffee sauce, walnuts, vanilla ice cream, and whipped cream.",
+            "price": "$13.200",
+            "trademarks": []
+          },
+          {
+            "name": "Arequipe Flameado",
+            "translatedName": "Flamed Dulce de Leche",
+            "description": "Crepe con arequipe flameado con brandy, helado de vainilla y crema chantilly.",
+            "translatedDescription": "Crepe with dulce de leche flamed with brandy, vanilla ice cream, and whipped cream.",
+            "price": "$12.900",
+            "trademarks": []
+          },
+          {
+            "name": "Baby Doll",
+            "translatedName": "Baby Doll",
+            "description": "Crepe con fresas, helado de vainilla, crema chantilly y salsa de fresa.",
+            "translatedDescription": "Crepe with strawberries, vanilla ice cream, whipped cream, and strawberry sauce.",
+            "price": "$12.900",
+            "trademarks": []
+          },
+          {
+            "name": "Chocolate Fundido",
+            "translatedName": "Melted Chocolate",
+            "description": "Crepe con trozos de chocolate fundido, helado de vainilla y crema chantilly.",
+            "translatedDescription": "Crepe with melted chocolate pieces, vanilla ice cream, and whipped cream.",
+            "price": "$14.600",
+            "trademarks": []
+          },
+          {
+            "name": "Mont Blanc",
+            "translatedName": "Mont Blanc",
+            "description": "Crepe con chocolate blanco, fresas y crema chantilly.",
+            "translatedDescription": "Crepe with white chocolate, strawberries, and whipped cream.",
+            "price": "$16.200",
+            "trademarks": []
+          },
+          {
+            "name": "Cleopatra",
+            "translatedName": "Cleopatra",
+            "description": "Crepe con almendras fileteadas, helado de vainilla, miel y crema chantilly.",
+            "translatedDescription": "Crepe with sliced almonds, vanilla ice cream, honey, and whipped cream.",
+            "price": "$12.900",
+            "trademarks": []
+          },
+          {
+            "name": "Lemonberry",
+            "translatedName": "Lemonberry",
+            "description": "Crepe con salsa de limón, frutos rojos, helado de mora y crema chantilly.",
+            "translatedDescription": "Crepe with lemon sauce, red berries, blackberry ice cream, and whipped cream.",
+            "price": "$12.900",
+            "trademarks": []
+          },
+          {
+            "name": "Blintzes",
+            "translatedName": "Mini Crepes",
+            "description": "Tres mini crepes con queso ricotta, Nutella® y salsa de frutos del bosque, syrup o maracuyá.",
+            "translatedDescription": "Three mini crepes with ricotta cheese, Nutella®, and red berry sauce, syrup, or passion fruit (maracuyá).",
+            "price": "$10.800",
+            "trademarks": ["Nutella®"]
+          }
+        ]
+      },
+      {
+        "name": "Waffles",
+        "translatedName": "Waffles",
+        "items": [
+          {
+            "name": "Mantequilla y Syrup o Miel",
+            "translatedName": "Butter and Syrup or Honey",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$8.900",
+            "trademarks": []
+          },
+          {
+            "name": "Mantequilla, Syrup o Miel con Fruta",
+            "translatedName": "Butter, Syrup or Honey with Fruit",
+            "description": "Adición de banano, fresa, melocotón, mora, piña, caramelo o piña de guayaba.",
+            "translatedDescription": "Addition of banana, strawberry, peach, blackberry, pineapple, caramel, or guava.",
+            "price": "$12.600",
+            "trademarks": []
+          },
+          {
+            "name": "Especial",
+            "translatedName": "Special",
+            "description": "Waffle con helado de vainilla, salsa de arequipe, chocolate, fresa o mora y crema chantilly.",
+            "translatedDescription": "Waffle with vanilla ice cream, dulce de leche sauce, chocolate, strawberry or blackberry sauce, and whipped cream.",
+            "price": "$12.800",
+            "trademarks": []
+          },
+          {
+            "name": "Waffle con Crema Chantilly",
+            "translatedName": "Waffle with Whipped Cream",
+            "description": "Elige tres o cuatro salsas diferentes: arequipe, chocolate, fresa, mora, inglesa, piña, frutos del bosque, caramelo o jalea de guayaba.",
+            "translatedDescription": "Choose three or four different sauces: dulce de leche, chocolate, strawberry, blackberry, English sauce, pineapple, forest fruits, caramel, or guava jelly.",
+            "price": "$16.400",
+            "trademarks": []
+          },
+          {
+            "name": "Arequipe",
+            "translatedName": "Dulce de Leche",
+            "description": "Con salsa de arequipe, helado de vainilla y Arequipe con crema chantilly.",
+            "translatedDescription": "With dulce de leche sauce, vanilla ice cream, and Dulce de Leche with whipped cream.",
+            "price": "$12.900",
+            "trademarks": []
+          },
+          {
+            "name": "Arequipe y Banano",
+            "translatedName": "Dulce de Leche and Banana",
+            "description": "Con salsa de arequipe, banano, helado de Old Style y crema chantilly.",
+            "translatedDescription": "With dulce de leche sauce, banana, Old Style ice cream and whipped cream.",
+            "price": "$13.900",
+            "trademarks": []
+          },
+          {
+            "name": "Nutella®",
+            "translatedName": "Nutella®",
+            "description": "Con helado de Vainilla y crema chantilly.",
+            "translatedDescription": "With vanilla ice cream and whipped cream.",
+            "price": "$16.500",
+            "trademarks": ["Nutella®"]
+          },
+          {
+            "name": "Nutella® y Banano",
+            "translatedName": "Nutella® and Banana",
+            "description": "Con helado de Old Style y crema chantilly.",
+            "translatedDescription": "With Old Style ice cream and whipped cream.",
+            "price": "$16.900",
+            "trademarks": ["Nutella®"]
+          },
+          {
+            "name": "Frutos del Bosque",
+            "translatedName": "Forest Fruits",
+            "description": "Con helado Old Style y crema chantilly.",
+            "translatedDescription": "With Old Style ice cream and whipped cream.",
+            "price": "$13.900",
+            "trademarks": []
+          },
+          {
+            "name": "Jardín de Berries",
+            "translatedName": "Berry Garden",
+            "description": "Waffle con frutos rojos, helado de vainilla, una mezcla de salsas de mora y fresa y crema chantilly.",
+            "translatedDescription": "Waffle with red berries, vanilla ice cream, a mix of blackberry and strawberry sauces, and whipped cream.",
+            "price": "$16.900",
+            "trademarks": []
+          },
+          {
+            "name": "Chocorrelle",
+            "translatedName": "Chocorrelle",
+            "description": "Waffle de chocolate con crema crunchy de chocolate con avellanas, helado de chocolate y crema chantilly.",
+            "translatedDescription": "Chocolate waffle with crunchy hazelnut chocolate cream, chocolate ice cream, and whipped cream.",
+            "price": "$20.500",
+            "trademarks": []
+          }
+        ]
+      },
+      {
+        "name": "Adiciones (Dulce)",
+        "translatedName": "Add-ons (Sweet)",
+        "items": [
+          {
+            "name": "Crema Chantilly",
+            "translatedName": "Whipped Cream",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$2.300",
+            "trademarks": []
+          },
+          {
+            "name": "Salsa de Arequipe",
+            "translatedName": "Dulce de Leche Sauce",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$2.600",
+            "trademarks": []
+          },
+          {
+            "name": "Salsa de Chocolate",
+            "translatedName": "Chocolate Sauce",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$2.600",
+            "trademarks": []
+          },
+          {
+            "name": "Fresa",
+            "translatedName": "Strawberry",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$2.600",
+            "trademarks": []
+          },
+          {
+            "name": "Banano",
+            "translatedName": "Banana",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$2.600",
+            "trademarks": []
+          },
+          {
+            "name": "Melocotón",
+            "translatedName": "Peach",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$2.600",
+            "trademarks": []
+          }
+        ]
+      },
+      {
+        "name": "Mini Waffles",
+        "translatedName": "Mini Waffles",
+        "items": [
+          {
+            "name": "Frutos Rojos y Miel",
+            "translatedName": "Red Berries and Honey",
+            "description": null,
+            "translatedDescription": null,
+            "price": "$8.900",
+            "trademarks": []
+          },
+          {
+            "name": "Chocolate",
+            "translatedName": "Chocolate",
+            "description": "Mini waffle con helado de vainilla y crema chantilly.",
+            "translatedDescription": "Mini waffle with vanilla ice cream and whipped cream.",
+            "price": "$11.500",
+            "trademarks": []
+          },
+          {
+            "name": "Arequipe",
+            "translatedName": "Dulce de Leche",
+            "description": "Mini waffle con helado de vainilla, salsa de arequipe y crema chantilly.",
+            "translatedDescription": "Mini waffle with vanilla ice cream, dulce de leche sauce, and whipped cream.",
+            "price": "$10.200",
+            "trademarks": []
+          },
+          {
+            "name": "Frutas",
+            "translatedName": "Fruits",
+            "description": "Mini waffle con fresas, banano, helado de Vainilla y crema chantilly.",
+            "translatedDescription": "Mini waffle with strawberries, banana, vanilla ice cream, and whipped cream.",
+            "price": "$13.500",
+            "trademarks": []
+          },
+          {
+            "name": "Primavera",
+            "translatedName": "Spring",
+            "description": "Mini waffle con helado de fresa, salsa de fresa y crema chantilly.",
+            "translatedDescription": "Mini waffle with strawberry ice cream, strawberry sauce, and whipped cream.",
+            "price": "$12.800",
+            "trademarks": []
+          },
+          {
+            "name": "Coffee Caramel",
+            "translatedName": "Coffee Caramel",
+            "description": "Mini waffle con helado de café, salsa de caramelo, nueces y crema chantilly.",
+            "translatedDescription": "Mini waffle with coffee ice cream, caramel sauce, walnuts, and whipped cream.",
+            "price": "$12.400",
+            "trademarks": []
+          },
+          {
+            "name": "Nataly",
+            "translatedName": "Nataly",
+            "description": "Mini waffle con helado de vainilla, salsa de chocolate, trozos de chocolate y crema chantilly.",
+            "translatedDescription": "Mini waffle with vanilla ice cream, chocolate sauce, chocolate pieces, and whipped cream.",
+            "price": "$12.400",
+            "trademarks": []
+          }
+        ]
+      },
+      {
+        "name": "Amantes del Chocolate",
+        "translatedName": "Chocolate Lovers",
+        "items": [
+          {
+            "name": "Copa Almond Chocolate",
+            "translatedName": "Almond Chocolate Cup",
+            "description": "Helado de chocolate, salsa de chocolate, almendras tostadas y crema chantilly.",
+            "translatedDescription": "Chocolate ice cream, chocolate sauce, toasted almonds, and whipped cream.",
+            "price": "$10.500",
+            "trademarks": []
+          },
+          {
+            "name": "Pasión de Chocolate",
+            "translatedName": "Chocolate Passion",
+            "description": "Brownie caliente bañado de helado de Chocolate cubierto de concentrado de chocolate y crema chantilly.",
+            "translatedDescription": "Warm brownie bathed in Chocolate ice cream covered with chocolate concentrate and whipped cream.",
+            "price": "$14.200",
+            "trademarks": []
+          },
+          {
+            "name": "Fondue Crepes & Waffles",
+            "translatedName": "Crepes & Waffles Fondue",
+            "description": "Trozos de waffle y crepe, frutas de estación, vainilla, Arequipe, Fresas y Chocolate para untar y crema chantilly.",
+            "translatedDescription": "Pieces of waffle and crepe, seasonal fruits, vanilla, Dulce de Leche, Strawberries and Chocolate for dipping, and whipped cream.",
+            "price": "$28.900",
+            "trademarks": []
+          },
+          {
+            "name": "Copa Vainilla Hot Chocolate",
+            "translatedName": "Vanilla Hot Chocolate Cup",
+            "description": "Helado de vainilla, salsa de chocolate caliente, crema chantilly y chocolate Golosine con el que le puedes dar el gusto a tu gusto.",
+            "translatedDescription": "Vanilla ice cream, hot chocolate sauce, whipped cream, and Golosine chocolate that you can enjoy to your liking.",
+            "price": "$13.900",
+            "trademarks": []
+          },
+          {
+            "name": "Copa Dark Chocolate Fudge",
+            "translatedName": "Dark Chocolate Fudge Cup",
+            "description": "Helado de chocolate, salsa de chocolate Fudge con trozos de brownie, crema chantilly y barquillo.",
+            "translatedDescription": "Chocolate ice cream, chocolate fudge sauce with brownie pieces, whipped cream, and wafer.",
+            "price": "$13.900",
+            "trademarks": []
+          }
+        ]
+      },
+      {
+        "name": "Copas Gourmet",
+        "translatedName": "Gourmet Cups",
+        "items": [
+          {
+            "name": "Tartin de Limón",
+            "translatedName": "Lemon Tartin",
+            "description": "Galleta crocante de limón con toques cítricos de limón, naranja y mandarina, helado de limón y merengue italiano, una opción ligera y perfecta para refrescar y disfrutar.",
+            "translatedDescription": "Crispy lemon cookie with citrus notes of lemon, orange, and tangerine, lemon ice cream, and Italian meringue, a light and perfect option to refresh and enjoy.",
+            "price": "$18.500",
+            "trademarks": []
+          },
+          {
+            "name": "Copa Choco Haze",
+            "translatedName": "Choco Haze Cup",
+            "description": "Fruta aromática del oriente y toda la frescura del helado de Limón, salsa de chocolate y avellanas, merengue crujiente.",
+            "translatedDescription": "Aromatic fruit from the East and all the freshness of Lemon ice cream, chocolate and hazelnut sauce, crispy meringue.",
+            "price": "$16.500",
+            "trademarks": []
+          },
+          {
+            "name": "Copa Rochelle",
+            "translatedName": "Rochelle Cup",
+            "description": "Helado de chocolate y vainilla, con crujientes pedazos de avellana, crema chantilly y barquillo.",
+            "translatedDescription": "Chocolate and vanilla ice cream, with crispy hazelnut pieces, whipped cream, and wafer.",
+            "price": "$12.900",
+            "trademarks": []
+          },
+          {
+            "name": "Bosque Nevado",
+            "translatedName": "Snowy Forest",
+            "description": "Helado de Vainilla con salsa de arequipe, frutos del bosque, merenguitos suizos y almendras tostadas.",
+            "translatedDescription": "Vanilla ice cream with dulce de leche sauce, forest fruits, Swiss meringues, and toasted almonds.",
+            "price": "$15.300",
+            "trademarks": []
+          }
+        ]
+      },
+      {
+        "name": "Italianos",
+        "translatedName": "Italian",
+        "items": [
+          {
+            "name": "Tiramisú",
+            "translatedName": "Tiramisu",
+            "description": "Clásica preparación italiana de helado Old Style, bizcochuelo bañado en café y licor, cacao en polvo y crema chantilly.",
+            "translatedDescription": "Classic Italian preparation of Old Style ice cream, ladyfingers dipped in coffee and liqueur, cocoa powder, and whipped cream.",
+            "price": "$13.900",
+            "trademarks": []
+          },
+          {
+            "name": "Copa Vesubio",
+            "translatedName": "Vesuvius Cup",
+            "description": "Auténtica combinación italiana de helado de Fresa, Vainilla y Limón.",
+            "translatedDescription": "Authentic Italian combination of Strawberry, Vanilla, and Lemon ice cream.",
+            "price": "$10.200",
+            "trademarks": []
+          },
+          {
+            "name": "Saint Honoré",
+            "translatedName": "Saint Honoré",
+            "description": "Profiteroles con helado de vainilla, sobre salsa de chocolate caliente y salsa de caramelo, crema chantilly y almendras.",
+            "translatedDescription": "Profiteroles with vanilla ice cream, over hot chocolate sauce and caramel sauce, whipped cream, and almonds.",
+            "price": "$15.400",
+            "trademarks": []
+          },
+          {
+            "name": "Copa Capri",
+            "translatedName": "Capri Cup",
+            "description": "La suavidad del helado de Vainilla sobre una crujiente galleta con sabor a coco, bañada en salsa de arequipe, uva y crema chantilly.",
+            "translatedDescription": "The smoothness of Vanilla ice cream on a crispy coconut-flavored cookie, bathed in dulce de leche sauce, grape, and whipped cream.",
+            "price": "$10.500",
+            "trademarks": []
+          },
+          {
+            "name": "Fontana de Trevi",
+            "translatedName": "Trevi Fountain",
+            "description": "Sinfonía de sabores de helados de Crujiente, Chocolate, Coffee Caramel y Vainilla, con salsa de chocolate, crocante de nueces y crema chantilly.",
+            "translatedDescription": "Symphony of Crunchy, Chocolate, Coffee Caramel, and Vanilla ice cream flavors, with chocolate sauce, crispy walnuts, and whipped cream.",
+            "price": "$12.900",
+            "trademarks": []
+          },
+          {
+            "name": "Copa Veneciana",
+            "translatedName": "Venetian Cup",
+            "description": "Helado Old Style entre la exquisita composición de licor de sabajón y el sutil sabor de la uva pasa.",
+            "translatedDescription": "Old Style ice cream amidst the exquisite composition of sabajón liqueur and the subtle flavor of raisins.",
+            "price": "$10.200",
+            "trademarks": []
+          },
+          {
+            "name": "Tartufino de Avellana",
+            "translatedName": "Hazelnut Tartufino",
+            "description": "Canastilla de chocolate italiano con helado de Avellana o con tu helado favorito, con trocitos de chocolate y nueces, crema chantilly y barquillo.",
+            "translatedDescription": "Italian chocolate basket with Hazelnut ice cream or your favorite ice cream, with chocolate bits and walnuts, whipped cream, and wafer.",
+            "price": "$13.900",
+            "trademarks": []
+          }
+        ]
+      },
+      {
+        "name": "Clásicos Deco",
+        "translatedName": "Deco Classics",
+        "items": [
+          {
+            "name": "Banana Split",
+            "translatedName": "Banana Split",
+            "description": "Clásica mezcla de helado de Vainilla, Fresa y Chocolate. Acompañado de banano, crema chantilly, nueces, salsa de chocolate y arequipe.",
+            "translatedDescription": "Classic mix of Vanilla, Strawberry, and Chocolate ice cream. Served with banana, whipped cream, walnuts, chocolate sauce, and dulce de leche.",
+            "price": "$15.600",
+            "trademarks": []
+          },
+          {
+            "name": "Copa Beverly Hills",
+            "translatedName": "Beverly Hills Cup",
+            "description": "Helado de Vainilla sobre crujiente galleta de mantequilla entre la clásica combinación de las salsas inglesa y uva, con crema chantilly.",
+            "translatedDescription": "Vanilla ice cream on a crispy butter cookie between the classic combination of English and grape sauces, with whipped cream.",
+            "price": "$9.900",
+            "trademarks": []
+          },
+          {
+            "name": "Copa Hawai",
+            "translatedName": "Hawaii Cup",
+            "description": "Toda la frescura de nuestros helados de Limón, Mora y Maracuyá con crema chantilly.",
+            "translatedDescription": "All the freshness of our Lemon, Blackberry, and Passion Fruit (Maracuyá) ice creams with whipped cream.",
+            "price": "$8.900",
+            "trademarks": []
+          }
+        ]
+      }
+    ],
+    "analisisAdicional": {
+      "platosRepetidos": [
+        {"name": "Ensalada Griega", "locations": ["Entradas", "Ensaladas"]},
+        {"name": "Stroganoff", "locations": ["Crepes de Carne", "Panne Cook", "Mini Panne Cook (variations in price and form)"]},
+        {"name": "Lomito Pimienta", "locations": ["Crepes de Carne", "Panne Cook", "Mini Panne Cook (variations in price and form)"]},
+        {"name": "Pollo y Champiñones", "locations": ["Panne Cook", "Mini Panne Cook (variations in price and form)"]},
+        {"name": "Camarones al Ajillo / Camarones", "locations": ["Crepes de Mar", "Panne Cook", "Mini Panne Cook (variations in price and form)"]},
+        {"name": "Arequipe (and variations)", "locations": ["Crepes Dulces", "Waffles", "Copas y Copas", "etc."] },
+        {"name": "Nutella® (and variations)", "locations": ["Crepes Dulces", "Waffles", "etc."] }
+      ],
+      "platoMasCaro": {
+        "nombre": "Cava Brut Botella",
+        "categoria": "Vinos",
+        "precio": "$105.000"
+      },
+      "platoMasEconomico": {
+        "nombre": "Mantequilla y Azúcar",
+        "categoria": "Crepes Dulces",
+        "precio": "$6.900"
+      },
+      "itemsFaltantesDetectados": [
+        {
+          "nombre": "Maracuyá",
+          "precio": "$8.900",
+          "categoriaDetectada": "Jugos",
+          "estado": "item_faltante_detectado"
+        },
+        {
+          "nombre": "Pita en el Bosque",
+          "precio": "$18.900",
+          "categoriaDetectada": "Sabores Veganos",
+          "estado": "item_faltante_detectado"
+        },
+        {
+          "nombre": "Crepe Festival",
+          "precio": "$24.900",
+          "categoriaDetectada": "Sabores Veganos",
+          "estado": "item_faltante_detectado"
+        },
+        {
+          "nombre": "Boloñesa y Queso",
+          "precio": "$25.900",
+          "categoriaDetectada": "Panne Cook",
+          "estado": "item_faltante_detectado"
+        },
+        {
+          "nombre": "Boloñesa, Queso y Champiñones",
+          "precio": "$29.500",
+          "categoriaDetectada": "Panne Cook",
+          "estado": "item_faltante_detectado"
+        },
+        {
+          "nombre": "Ternera y Champiñones",
+          "precio": "$30.500",
+          "categoriaDetectada": "Panne Cook",
+          "estado": "item_faltante_detectado"
+        },
+        {
+          "nombre": "Pollo, Alcachofa, Queso y Salsa de Queso",
+          "precio": "$29.900",
+          "categoriaDetectada": "Panne Cook",
+          "estado": "item_faltante_detectado"
+        },
+        {
+          "nombre": "Pollo Parmesano",
+          "precio": "$32.200",
+          "categoriaDetectada": "Panne Cook",
+          "estado": "item_faltante_detectado"
+        },
+        {
+          "nombre": "Pollo al Curry",
+          "precio": "$28.500",
+          "categoriaDetectada": "Panne Cook",
+          "estado": "item_faltante_detectado"
+        },
+        {
+          "nombre": "Pollo Hindú",
+          "precio": "$30.500",
+          "categoriaDetectada": "Panne Cook",
+          "estado": "item_faltante_detectado"
+        },
+        {
+          "nombre": "Pollo Mexicano",
+          "precio": "$32.200",
+          "categoriaDetectada": "Panne Cook",
+          "estado": "item_faltante_detectado"
+        },
+        {
+          "nombre": "Pollo, Champiñones y Espárragos",
+          "precio": "$29.900",
+          "categoriaDetectada": "Panne Cook",
+          "estado": "item_faltante_detectado"
+        },
+        {
+          "nombre": "Pollo, Brócoli, Queso y Salsa de Queso",
+          "precio": "$31.900",
+          "categoriaDetectada": "Panne Cook",
+          "estado": "item_faltante_detectado"
+        },
+        {
+          "nombre": "Pollo, Espinaca y Queso",
+          "precio": "$34.900",
+          "categoriaDetectada": "Panne Cook",
+          "estado": "item_faltante_detectado"
+        },
+        {
+          "nombre": "Pollo, Champiñones en Salsa de Queso",
+          "precio": "$29.900",
+          "categoriaDetectada": "Panne Cook",
+          "estado": "item_faltante_detectado"
+        },
+        {
+          "nombre": "Lomito Pizzaïola",
+          "precio": "$33.200",
+          "categoriaDetectada": "Panne Cook",
+          "estado": "item_faltante_detectado"
+        },
+        {
+          "nombre": "Camarones",
+          "precio": "$40.500",
+          "categoriaDetectada": "Panne Cook",
+          "estado": "item_faltante_detectado"
+        },
+        {
+          "nombre": "Salmón Ahumado",
+          "precio": "$40.800",
+          "categoriaDetectada": "Panne Cook",
+          "estado": "item_faltante_detectado"
+        },
+        {
+          "nombre": "Mar y Tierra",
+          "precio": "$37.200",
+          "categoriaDetectada": "Panne Cook",
+          "estado": "item_faltante_detectado"
+        },
+        {
+          "nombre": "Pollo, Espárragos y Queso",
+          "precio": "$25.800",
+          "categoriaDetectada": "Mini Panne Cook",
+          "estado": "item_faltante_detectado"
+        },
+        {
+          "nombre": "Pollo al Curry",
+          "precio": "$21.800",
+          "categoriaDetectada": "Mini Panne Cook",
+          "estado": "item_faltante_detectado"
+        },
+        {
+          "nombre": "Ternera",
+          "precio": "$25.400",
+          "categoriaDetectada": "Mini Panne Cook",
+          "estado": "item_faltante_detectado"
+        },
+        {
+          "nombre": "Boloñesa y Queso",
+          "precio": "$22.900",
+          "categoriaDetectada": "Mini Panne Cook",
+          "estado": "item_faltante_detectado"
+        },
+        {
+          "nombre": "Vegetariano",
+          "precio": "$22.500",
+          "categoriaDetectada": "Mini Panne Cook",
+          "estado": "item_faltante_detectado"
+        },
+        {
+          "nombre": "Pollo al Ajillo",
+          "precio": "$26.500",
+          "categoriaDetectada": "Mini Panne Cook",
+          "estado": "item_faltante_detectado"
+        },
+        {
+          "nombre": "Pollo en Salsa de la Casa (Marco Polo)",
+          "precio": "$26.500",
+          "categoriaDetectada": "Mini Panne Cook",
+          "estado": "item_faltante_detectado"
+        },
+        {
+          "nombre": "Camarones en Salsa de la Casa (Marco Polo)",
+          "precio": "$38.900",
+          "categoriaDetectada": "Mini Panne Cook",
+          "estado": "item_faltante_detectado"
+        },
+        {
+          "nombre": "Copa Toffee",
+          "precio": "$13.900",
+          "categoriaDetectada": "Delizzia",
+          "estado": "item_faltante_detectado"
+        },
+        {
+          "nombre": "Filosofía Acaramelada",
+          "precio": "$13.900",
+          "categoriaDetectada": "Delizzia",
+          "estado": "item_faltante_detectado"
+        }
+      ]
+    }
+  }
+}
